@@ -4,7 +4,7 @@ public class MainBlock
 {
     static void Main()
     {
-        string[] inputArray = { "Hello", "2", "world", ":-)" };
+        string[] inputArray = { "Hello", "2", "world" };
 
         string[] resultArray = FilterArray(inputArray);
 
